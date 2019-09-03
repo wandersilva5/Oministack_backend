@@ -6,7 +6,7 @@ const routes  = require('./routes');
 
 const server = express();
 
-mongoose.connect('mongodb+srv://wandersilva5:Africa01@cluster0-uk0jm.mongodb.net/test?retryWrites=true&w=majority', {
+mongoose.connect('######', {
     useNewUrlParser: true
 });
 
